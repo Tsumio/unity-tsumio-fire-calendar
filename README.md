@@ -9,7 +9,7 @@ Hope this program help, and enjoy creating game!
 This program is for Unity.
 
 ## Demo
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DeWySxcaFyU" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+[![SampleVideo](http://img.youtube.com/vi/DeWySxcaFyU/0.jpg)](http://www.youtube.com/watch?v=DeWySxcaFyU)
 
 ## Usage
 Read [wiki](https://github.com/Tsumio/unity-tsumio-fire-calendar/wiki).It contains how to use.
